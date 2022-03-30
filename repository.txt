@@ -1,7 +1,7 @@
 <repository>
         <addon:Server_SCPSL>
                 <channel:release>
-                        <version:0.9.0>
+                        <version:0.9.3>
                         <file:http://PrivateCaller.github.io/release/Server_SCPSL.zip>
                 </channel>
         </addon>
