@@ -1,8 +1,8 @@
 <repository>
         <addon:Server_SCPSL>
                 <channel:release>
-                        <version:0.9.3>
-                        <file:http://PrivateCaller.github.io/release/Server_SCPSL.zip>
+                        <version:0.9.6>
+                        <file:http://PrivateCaller.github.io/Blockland/Server_SCPSL.zip>
                 </channel>
         </addon>
 </repository>
