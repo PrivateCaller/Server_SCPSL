@@ -2,7 +2,7 @@
         <addon:Server_SCPSL>
                 <channel:release>
                         <version:0.9.6>
-                        <file:http://PrivateCaller.github.io/Blockland/Server_SCPSL.zip>
+                        <file:borrowedtime.website/blockland/Server_SCPSL.zip>
                 </channel>
         </addon>
 </repository>
